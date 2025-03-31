@@ -1,8 +1,8 @@
 # Project Info
 
-* C# .Net Core CLI _SU
-* Access a SMART FHIR Server
-* Use a local web server for redirection
+* C# ASP.Net  Console Application
+* In this application , taken aspx designer pages and iterated controls and IDs then saved then in a .csv file
+
 
 # Documentation
 
@@ -10,4 +10,3 @@
 ## More Information
 
 
-FHIR&reg; is the registered trademark of HL7 and is used with the permission of HL7. 
